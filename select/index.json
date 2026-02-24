@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "本物",
+  "base_artist": "ハク。",
+  "createdAt": "2026-02-24T08:02:42.149500Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "本物",
+      "artist": "ハク。",
+      "has_synced": false,
+      "path": "select/pl_01_本物_ハク。.txt"
+    }
+  ]
+}
